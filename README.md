@@ -33,11 +33,11 @@
 ## 👤 Author
 
 **LxxCLoUD**  
-GitHub: [@TheLxxCLoUD](https://github.com/TheLxxCLoUD)
+GitHub: [@TheLxxCLoUD](https://github.com/The-Lxx-CLoUD)
 
 
 ```bash
-git clone https://github.com/TheLxxCLoUD/CLoUD-JAM
+git clone https://github.com/The-Lxx-CLoUD/CLoUD-JAM
 ```
 ```bash
 cd CLoUD-JAM
